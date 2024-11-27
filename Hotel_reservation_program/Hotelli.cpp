@@ -40,7 +40,7 @@ int getValidInput() {
 			cout << "Invalid input. Please enter a number." << endl;
 		}
 		else {
-			return input; //Paluttaa kelvollisen syötteen
+			return input; //Palauttaa kelvollisen syötteen
 		}
 	}
 }
